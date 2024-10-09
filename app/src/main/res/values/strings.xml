@@ -3,4 +3,13 @@
     <string name="ciudades">Ciudades</string>
     <string name="frutas">Frutas</string>
     <string name="coches">Coches</string>
+    <string name="sevilla">Sevilla</string>
+    <string name="huelva">Huelva</string>
+    <string name="manzana">Manzana</string>
+    <string name="naranja">Naranja</string>
+    <string name="cadiz">Cádiz</string>
+    <string name="pinia">Piña</string>
+    <string name="seat">Seat</string>
+    <string name="renault">Renault</string>
+    <string name="ford">Ford</string>
 </resources>
